@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Animadversions upon a declaration of the proceedings against the XI Members of the House of Commons: impeached of high crimes, and mis-demeanors; by His Excellency Sir Thomas Fairefax, and the army under his command.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75364</idno>
+            <idno type="STC">Wing A3201</idno>
+            <idno type="STC">Thomason E398_4</idno>
+            <idno type="STC">ESTC R201682</idno>
+            <idno type="EEBO-CITATION">99862182</idno>
+            <idno type="PROQUEST">99862182</idno>
+            <idno type="VID">114333</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75364)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114333)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E398[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Animadversions upon a declaration of the proceedings against the XI Members of the House of Commons: impeached of high crimes, and mis-demeanors; by His Excellency Sir Thomas Fairefax, and the army under his command.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Will. Armestrong,</publisher>
+                  <pubPlace>Cambridge, :</pubPlace>
+                  <date>anno Dom. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 13th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Expulsion --  Early works to 1800.</term>
+               <term>Impeachments --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114333:1" rendition="simple:additions"/>
+            <p>ANIMADVERSIONS UPON A DECLARATION OF THE Proceedings againſt the XI MEMBERS OF The Houſe of COMMONS: IMPEACHED Of High Crimes, and Miſ-demeanors; By His EXCELLENCY Sir <hi>THOMAS FAIREFAX,</hi> AND the ARMY under his Command.</p>
+            <p>
+               <hi>CAMBRIDGE,</hi> Printed for <hi>Will. Armeſtrong, Anno Dom.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:114333:2"/>
+            <pb n="1" facs="tcp:114333:2"/>
+            <head>ANIMADVERSIONS Upon a DECLARATION OF The proceedings againſt the XI. Members of the Houſe of Commons, Impeached of high Crimes, and miſ-de<g ref="char:EOLhyphen"/>meanors; By his Excellency Sir <hi>Thomas Fairfax,</hi> and the Army under his <hi>COMMAND.</hi>
+            </head>
+            <p>IT is advice as good as old: <hi>Of all knaves take beed of a learned knave,</hi> (not becauſe he is an <hi>Academian,</hi> but a wicked one.) When Snakes would creepe into our boſomes, there is moſt neede of vigilancy; the Devill never doth the Church more miſcheife, then when he appears like an Angell of light; And when machivillions pretend the greateſt good, to a State or kingdome, they then practice moſt miſcheife.</p>
+            <p>I can not but judge the Author of this Declaration to have a deſigne (notwithſtanding his faire pretences) to Tantilize a tormented Kingdom (under a pretence of pleading for the up<g ref="char:EOLhyphen"/>holding of Rights, Priviledges, freedomes, &amp; common juſtice,) to ſtrike at the very foundation, (and to blaſt the honour, and reputation) of the Parliament, and to have a deſigne to ſet the whole Kingdome in a new combuſtion. I will give you ſome Animadverſions, ſuch as I have plainly obſerved from the ſe<g ref="char:EOLhyphen"/>verall parts thereof.</p>
+            <p>He taxeth the proceedings of the Army to appeare unjuſt.</p>
+            <pb n="2" facs="tcp:114333:3"/>
+            <p n="1">1 <hi>By the generality, and incertainty of the</hi> Accuſers, <hi>the Charge againſt them being preſented in the name of the whole Army, without the hands of any perticular perſons to it, who will undertake (at their perills) to make it good.</hi> Here is a fine expreſſion of love to the Parliament is there not? mark this deſigne herein, which is to ſet the Parliament againſt the Army; And to draw a ſlighting of the Charge untill the whole Army come up. The Impeachment is drawen up by the whole Councell of Warre. The Gene<g ref="char:EOLhyphen"/>rall, and Officers have choſen a Committee of their owne Members (whereof foure are Collonels, and the reſt officers of note, well knowen, and of good Eſtates who by order from them and in the name of the whole Army, delivered the Charge (ſigned by the Generalls owne Secretary) to the Houſe of Commons with their owne hands, undertaking to make it good againſt the ſaid Members. This Gentleman would have it thrown aſide, to provoke the Army to come to force juſtice. O brave Councellour!</p>
+            <p n="2">2 <hi>By the uncertainty, and generality of the Charge it ſelfe, in meere generall and ambiguous termes; to which the parties accuſed, can give no anſwer, nor make any defence.</hi> This hee decla<g ref="char:EOLhyphen"/>reth, to make the Kingdome to have low thoughts of the Houſe of Commons; as if they were not able to deſcerue thoſe many perticulars expreſſed in this Charge, becauſe they vo<g ref="char:EOLhyphen"/>ted the former to be inſufficient to ſuſpend their <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. Members by Law. As if that vote made the 25th <hi>June,</hi> ſhould judge what is brought in (in matter of ſo great concernment) <hi>July</hi> 6 fol<g ref="char:EOLhyphen"/>lowing? And if this advice tend to the honour of the Parli<g ref="char:EOLhyphen"/>ament let any reaſonable man judge.</p>
+            <p n="3">3 <hi>By the multitude, and quallity of the parties impeached, no leſſe then</hi> II. <hi>at once, all men of approoved integrity, fidelity, and abillityes, who have acted, and ſuffered much, for the Parliaments, and peoples Liberties:</hi> Yee may ſee what ſpirit this Gentleman is of (her<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n,) grant him this allegation, and he will then reply upon the Parliament themſelves, for impeaching ſo many, and of ſuch quallity, (as are expreſt in their propoſitions to the King) all at once. And it is well knowen that the Arch-Biſhop of <hi>Canterbury,</hi> that dyed a Traytor, was once, an honeſt private Preacher, the Earle of <hi>Straford</hi> acted well when
+<pb n="3" facs="tcp:114333:3"/>hee ſat in the Houſe of Commons in a former Parliament, and made divers excellent ſpeeches, which condemned his own actions afterwards: And Sir <hi>John Hotham,</hi> was voted by both Houſes of Parliament to act well at <hi>Hull,</hi> for which hee ſuf<g ref="char:EOLhyphen"/>fered the reproaches of the Kings Proclamation, to be called a Traytor, for the ſervice he did for the Parliament and King<g ref="char:EOLhyphen"/>dome, and yet they all became (afterwards) ſo great ene<g ref="char:EOLhyphen"/>mies to the Parliament and peace of the Kingdome, that they all loſt their heads as Traytors againſt the Kingdome. And in that very Committee (where the Gentleman who wrot the Declaration is ſo eminent) many gallant men, (in divers Counties) who have done much good ſervice for the Par<g ref="char:EOLhyphen"/>liament, have had very ſtrict uſage, and by their ſubcommit<g ref="char:EOLhyphen"/>tees, ſome caſt into priſon, others perſecuted to the great prejudice of their lives, though no Charge at all hath appea<g ref="char:EOLhyphen"/>red againſt them, nay the very oath of the Committee is (ſome<g ref="char:EOLhyphen"/>times) ſtrangely put to exact a Charge againſt a mans ſelfe. Oh but to take ſo many out of the Houſe at once, he ſaith will <hi>weaken the Presbiterian party.</hi> A fine buſineſſe to have parties to carry on deſignes in the Houſe. Doth not this tend to their reputations.</p>
+            <p n="4">4 <hi>By their violence to have them ſuſpended the Houſe before any reall, perticular Charge, or proofs, produced againſt them.</hi> Doth this give a good Character of the proceedings of Parliament to tra<g ref="char:EOLhyphen"/>duce them by anticipation of their proceedings, as if they were reſolved to doe nothing againſt their Members but what violence ſhall force; notwithſtanding the repreſentations of ſo many able, honeſt, faithfull Gentlemen, brought in as a Charge by way of impeachment from the whole Army a<g ref="char:EOLhyphen"/>gainſt them. Though the crimes bee high, and witneſſes ready to make it good, were the matter put into a way of triall.</p>
+            <p n="5">5 <hi>By their unjuſt, and unreaſonable demands, after the votes of the Houſe</hi> June 25 (<hi>againſt their</hi> II. <hi>Members ſuſpention, upon what had appeared in the papers then received from the Army.</hi> Here hee would (to the diſhonour of the Houſe) have the Mem<g ref="char:EOLhyphen"/>bers hound up to the ſame opinion which they had before the particulars came from the Army; that becauſe the ma<g ref="char:EOLhyphen"/>jor part of them thought well of theſe Members then,
+<pb n="4" facs="tcp:114333:4"/>that therefore (let proofe be brought of never ſo high crimes and miſdemeanours againſt them yet) no legall tryall ſhould be now permitted againſt thoſe, of whom they have had ſo good an opinion, and from hence he makes a moſt dange<g ref="char:EOLhyphen"/>rous motion to all Counties &amp; Burroughes; (to the great hazard of the Parliaments ſitting in peace) to ſtirre them up to a violent petitioning of the Houſe againſt the Army, proteſting againſt them; Whereas hee cannot bee ignorant that many Counties make their addreſſes to the Parliament by the Ar<g ref="char:EOLhyphen"/>my.</p>
+            <p n="6">6 <hi>By their apparent falſe ſuggeſtions, wherewith they abuſe, both the accuſed Members, and the Houſe.</hi> Here is a great affront put upon the Army indeed; But where lyes this falſity, he ſaith that in their <hi>manifeſto June</hi> 27. They declared <hi>to have their particulars and proofes ready to deliver in; That the Houſe or<g ref="char:EOLhyphen"/>dered them to bring it in Friday</hi> July 4. <hi>at which time, a longer day was craved.</hi> If this gentleman would but deale clearly here<g ref="char:EOLhyphen"/>in, hee would bluſh at this folly of his. That although the officers of the Army had ſo much buſineſſe to doe, about the treaty, and yet they were able to diſpatch it, in two days after the time ſet, which was all the time deſired (the Lords day only excepted) by which time it was drawen up, and ingroſſed brought to <hi>London</hi> and delivered to the Houſe of Commons, and yet he is ſo impudent as to give them the lye, for ſaying that it was ready.</p>
+            <p>If he and other Lawyers would make ſo ſhort a worke of what they doe, after Papers delivered into their hands, it would ſave the Kingdome many thouſand pounds a year, nay, he may remember that himſelfe, (and the reſt) that proſecuted the <hi>Arch-Biſhops,</hi> had him ſuſpended the Houſe long before the particular Charge was brought in, nay to goe yet further, what particular Charge was there, either againſt him or <hi>Stra<g ref="char:EOLhyphen"/>ford</hi> before an order was paſſed (after ſuſpention) for the bring<g ref="char:EOLhyphen"/>ing in of witneſſes, which took up much time, to compleat it.</p>
+            <p>And yet the Army hath ſent a particular one, and a home one too, againſt theſe Members, as plainly appeares to thoſe who have impartiall eares to heare it.</p>
+            <p>And although he would have the Houſe to endanger them<g ref="char:EOLhyphen"/>ſelves
+<pb n="5" facs="tcp:114333:4"/>and the whole Kingdome, in oppoſing the Army in the protection of theſe Members, from Juſtice, and likewiſe en<g ref="char:EOLhyphen"/>gage the <hi>Counties</hi> and <hi>Burroughs,</hi> that choſe them herein. And the Charge againſt them, is for ſuch high and great crimes, as are therein expreſt, yet he ſaith all that is therein, is below ex<g ref="char:EOLhyphen"/>pectation, And is this man (thinke you) a friend to the II Members, or doth he not rather throw in a bone among us.</p>
+            <p>And his finding fault with the want of hands; (it being ſig<g ref="char:EOLhyphen"/>ned by the Generalls Secretary; and delivered by thoſe Ho<g ref="char:EOLhyphen"/>nourable Commiſſioners;) is all one as to claſh with an <hi>Order of Parliament,</hi> ſigned by <hi>John Bowne,</hi> or <hi>Henry Elſynge, Cleric.</hi> delivered by Commiſſioners from the Houſes.</p>
+            <p n="7">7. <hi>Their Mercinary Pamphleters,</hi> for ſhame man peace; have not you, and your faction uſed this Trade ſo long, to cheriſh the Malignant humours of the <hi>Church</hi> and <hi>Kingdome,</hi> that ye are all ſick of the <hi>Gangrena,</hi> The <hi>Army</hi> never went about to make a <hi>Monopoly</hi> to themſelves of the Preſſes, as thoſe who ſought to deſtroy them did, The <hi>Army</hi> give not Penſions to 80. or 100. <hi>Clerkes</hi> to helpe them, They give not annuities to Mercenary <hi>Scribes,</hi> to ſpoile <hi>Inke</hi> and <hi>Paper,</hi> to abuſe the Kingdome; and bring faction, and <hi>Tyranny</hi> into the <hi>Church</hi> and <hi>Kingdome;</hi> But he ſaith that <hi>the Impeached Members are traduced groſſely, becauſe the Houſes have acquitted them by their Votes.</hi> But (under favour) they were not acquitted by both Houſes, neither hath any thing of it been preſented to the <hi>Lords,</hi> they being Members of the Houſe of <hi>Commons,</hi> nor have the <hi>Commons</hi> acquitted them up<g ref="char:EOLhyphen"/>on the Particular Charge, or ſince it was preſented, or the Houſe knew what was therein contained. Nor did that ac<g ref="char:EOLhyphen"/>quitall go further then upon what appeared to their ſenſe then; way being ſtill left open to receive what is ſince or ſhall be delivered; and to judge according to the ſame.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
